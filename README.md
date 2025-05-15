@@ -1,40 +1,52 @@
-💰 Medical Insurance Predictor
+# 🏥 **Medical Insurance Predictor**
 
-This project predicts medical insurance charges based on user input using Python, Streamlit, and Machine Learning (Random Forest Regressor).
+This project predicts medical insurance charges based on user inputs like age, gender, BMI, smoking habits, and region using **Random Forest Regression** and **Streamlit** for an interactive UI.
 
-🖼️ App Preview
+---
+
+## 🖼️ **App Preview**
 ![Screenshot 1](screenshots/Screenshot201.png)  
 ![Screenshot 2](screenshots/Screenshot202.png)  
 ![Screenshot 3](screenshots/Screenshot203.png)  
 ![Screenshot 4](screenshots/Screenshot204.png)
 
-🚀 Features
+---
 
-- 🔍 Predict medical insurance cost based on age, BMI, gender, and other inputs
-- 📊 Uses Random Forest Regression Model
-- 🧼 Clean and preprocessed dataset
-- 🧠 Built with Python, Pandas, Scikit-learn, and Streamlit
+## 🚀 **Features**
 
-🧠 How it works
+- 🔍 Predicts medical insurance costs based on user input  
+- 📊 Trained using Random Forest Regressor  
+- 🧮 Performs EDA with visualizations  
+- 🌐 Interactive UI with Streamlit  
 
-- The dataset is cleaned and split into features and target
-- A Random Forest model is trained on the data
-- User inputs data through a Streamlit interface
-- Model predicts insurance charges and displays the result
+---
 
-📂 Project Structure
+## 🧠 **How it Works**
 
-- `insurance.csv` – the dataset
-- `app.py` – the Streamlit web app
-- `model.py` – ML model training code
-- `requirements.txt` – dependencies
-- `README.md` – this file
+- 📁 The dataset is cleaned and preprocessed  
+- 🧠 Random Forest Regression is applied for training  
+- 🎛️ Users enter their information in the Streamlit form  
+- 📈 The app predicts insurance cost instantly  
 
-📦 Run it locally
+---
 
-1. Clone the repository  
+## 📂 **Project Structure**
+
+- `insurance.csv` – Dataset  
+- `app.py` – Streamlit web app  
+- `eda.ipynb` – Exploratory Data Analysis  
+- `model.pkl` – Trained ML model  
+- `requirements.txt` – Dependencies  
+- `README.md` – You’re here!  
+
+---
+
+## 📦 **Run it Locally**
+
+1. **Clone the repository**  
    ```bash
    git clone https://github.com/Shivanee11/MedicalInsurancePredictor.git
+
 
 
 👩‍💻 Author
