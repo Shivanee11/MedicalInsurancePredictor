@@ -3,6 +3,14 @@
 This project recommends recipes based on a user’s input using **Python**, **TF-IDF**, and **Cosine Similarity** from NLP.
 
 ---
+## 🖼️ App Preview
+
+Here are some screenshots of the app in action:
+
+![Screenshot ](screenshots/Screenshot 2025-05-15 091727.png)
+![Screenshot ](screenshots/Screenshot 2025-05-15 091909.png)
+![Screenshot ](screenshots/Screenshot 2025-05-15 091946.png)
+![Screenshot ](screenshots/Screenshot 2025-05-15 092020.png)
 
 ## 🚀 Features
 
