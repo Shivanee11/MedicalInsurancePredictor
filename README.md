@@ -7,10 +7,11 @@ This project recommends recipes based on a user’s input using **Python**, **TF
 
 Here are some screenshots of the app in action:
 
-![Screenshot 1](screenshots/Screenshot20%1.png)  
-![Screenshot 2](screenshots/Screenshot20%2.png)  
-![Screenshot 3](screenshots/Screenshot20%3.png)  
-![Screenshot 4](screenshots/Screenshot20%4.png)
+![Screenshot 1](screenshots/Screenshot201.png)  
+![Screenshot 2](screenshots/Screenshot202.png)  
+![Screenshot 3](screenshots/Screenshot203.png)  
+![Screenshot 4](screenshots/Screenshot204.png)
+
 ## 🚀 Features
 
 - 🔍 Recommend recipes similar to user input  
