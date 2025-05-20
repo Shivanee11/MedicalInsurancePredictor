@@ -47,8 +47,6 @@ This project predicts medical insurance charges based on user inputs like age, g
    ```bash
    git clone https://github.com/Shivanee11/MedicalInsurancePredictor.git
 
-
-
 ## 👩‍💻 **Author**
 
 👩‍💻 **Shivanee Rao**  
