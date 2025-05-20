@@ -51,5 +51,7 @@ This project predicts medical insurance charges based on user inputs like age, g
 
 👩‍💻 Author
 
-Shivanee Rao – B.Tech at KIIT | Frontend Developer  
-GitHub: https://github.com/Shivanee11
+👩‍💻 **Shivanee Rao**  
+🎓 B.Tech CSE Student at KIIT University, Bhubaneswar (6th Semester)  
+💡 Passionate about building intuitive web applications and diving deep into data analytics  
+🌐 GitHub: https://github.com/Shivanee11
