@@ -49,7 +49,7 @@ This project predicts medical insurance charges based on user inputs like age, g
 
 
 
-👩‍💻 Author
+## 👩‍💻 **Author**
 
 👩‍💻 **Shivanee Rao**  
 🎓 B.Tech CSE Student at KIIT University, Bhubaneswar (6th Semester)  
